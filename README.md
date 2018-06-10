@@ -11,3 +11,5 @@
 [アイディアを投稿する](https://github.com/jawordpressorg/ideas/issues/new)
 
 また、みなさんから寄せられたアイディアに対して、コメントや絵文字でのリアクションはご自由に！
+
+https://github.com/jawordpressorg/ideas/issues
