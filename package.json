@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "version": "0.0.1",
+  "description": "WordPressの日本語コミュニティにおける投書箱です！",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawordpressorg/ideas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jawordpressorg/ideas/issues"
+  },
+  "homepage": "https://github.com/jawordpressorg/ideas#readme",
+  "dependencies": {
+    "@azu/github-label-setup": "^2.1.0"
+  }
+}
