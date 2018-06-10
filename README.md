@@ -15,4 +15,9 @@
 みなさんから寄せられたアイディアに対するフィードバックもお待ちしています。  
 コメントや絵文字でのリアクションも、どうぞご自由に !
 
-https://github.com/jawordpressorg/ideas/issues
+[現在寄せられているアイディアはこちら]（https://github.com/jawordpressorg/ideas/issues)
+
+## 関連リンク
+
+- [日本語 — WordPress](https://ja.wordpress.org/)
+- [WordBench](https://wordbench.org/)
