@@ -17,6 +17,18 @@
 
 [現在寄せられているアイディアはこちら](https://github.com/jawordpressorg/ideas/issues)
 
+WordPress 本体のバグなどのフィードバックは
+
+* [サポートフォーラム](https://ja.wordpress.org/support/forum/feedback/)
+* [公式 WordPress バグトラッカー(英語)](https://core.trac.wordpress.org)
+
+へどうぞ
+
+## GitHub が初めての方へ
+
+ようこそ！アイディアを投稿したいですか？
+まずは GitHub のアカウントを作成しましょう ! -> [Sign Up](https://github.com/join?source=prompt-code)
+
 ## 関連リンク
 
 - [日本語 — WordPress](https://ja.wordpress.org/)
