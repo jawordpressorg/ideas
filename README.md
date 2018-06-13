@@ -17,13 +17,12 @@
 
 [現在寄せられているアイディアはこちら](https://github.com/jawordpressorg/ideas/issues)
 
-（ WordPress 本体のバグなどのフィードバックは[サポートフォーラム](https://ja.wordpress.org/support/forum/feedback/)へどうぞ）
+WordPress 本体のバグなどのフィードバックは
 
-## コミット権の申請について
+* [サポートフォーラム](https://ja.wordpress.org/support/forum/feedback/)
+* [公式 WordPress バグトラッカー(英語)](https://core.trac.wordpress.org)
 
-コミット権限が必要な場合は、以下のリンクから「コミット権の申請」用の Issue を作成して申請してください。
-
-[コミット権の申請](https://github.com/jawordpressorg/ideas/issues/new?labels=Get%20Involved&title=%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E6%A8%A9%E3%81%AE%E7%94%B3%E8%AB%8B&template=getinvolved.md)
+へどうぞ
 
 ## GitHub が初めての方へ
 
@@ -34,3 +33,7 @@
 
 - [日本語 — WordPress](https://ja.wordpress.org/)
 - [WordBench](https://wordbench.org/)
+
+## コミット権の申請について
+
+[CONTRIBUTING.md](CONTRIBUTING.md) をご参照ください。
