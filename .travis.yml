@@ -1,1 +1,16 @@
-script: ls -al
+sudo: false
+dist: trusty
+
+language: node_js
+node_js:
+  - "8" # LTS
+
+notifications:
+  email:
+    on_success: never
+    on_failure: change
+
+script:
+  - ls -la
+  - npm install @azu/github-label-setup -g
+  - github-label-setup --token $GITHUB_TOKEN --labels $TRAVIS_BUILD_DIR/labels.json
