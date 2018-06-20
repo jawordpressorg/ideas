@@ -17,6 +17,6 @@ before_script:
 script:
   # automatic labels setting.
   - |
-    if [[ "$TRAVIS_BRANCH" == "master" ]] ; then
+    if [[ "$TRAVIS_BRANCH" == "master" ]] && [[ "false" == "$TRAVIS_PULL_REQUEST" ]] ; then
       github-label-setup --token $GITHUB_TOKEN --labels $TRAVIS_BUILD_DIR/labels.json
     fi
