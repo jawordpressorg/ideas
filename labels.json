@@ -1,7 +1,10 @@
 [
     {
-        "name": "Get Involved",
-        "color": "006b75"
+        "name": "コミット権の申請",
+        "color": "006b75",
+        "aliases": [
+            "Get Involved"
+        ]
     },
     {
         "name": "ideasの運営",
