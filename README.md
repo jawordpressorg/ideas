@@ -29,6 +29,10 @@ WordPress 本体のバグなどのフィードバックは
 ようこそ！アイディアを投稿したいですか？
 まずは GitHub のアカウントを作成しましょう ! -> [Sign Up](https://github.com/join?source=prompt-code)
 
+### このリポジトリのアクティビティを受けたい方
+このリポジトリのアクティビティの通知を受け取るには `Star` ではなく `Watch`をしましょう。
+![Wotchのクリック](https://raw.githubusercontent.com/jawordpressorg/ideas/images/ideas-screenshot-001.png)
+
 ## 関連リンク
 
 - [日本語 — WordPress](https://ja.wordpress.org/)
