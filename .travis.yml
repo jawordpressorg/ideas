@@ -11,6 +11,9 @@ notifications:
     on_failure: change
 
 script:
-  - ls -la
-  - npm install @azu/github-label-setup -g
-  - github-label-setup --token $GITHUB_TOKEN --labels $TRAVIS_BUILD_DIR/labels.json
+  # automatic labels setting.
+  - |
+    if [[ "TRAVIS_BRANCH" == "master" ]] ; then
+      npm install @azu/github-label-setup -g
+      github-label-setup --token $GITHUB_TOKEN --labels $TRAVIS_BUILD_DIR/labels.json
+    fi
