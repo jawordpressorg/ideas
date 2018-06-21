@@ -29,6 +29,15 @@ WordPress 本体のバグなどのフィードバックは
 ようこそ！アイディアを投稿したいですか？
 まずは GitHub のアカウントを作成しましょう ! -> [Sign Up](https://github.com/join?source=prompt-code)
 
+## このレポジトリの設定について
+
+### Issue のラベル管理
+
+Issue のラベルは、[labels.json](https://github.com/jawordpressorg/ideas/blob/master/labels.json) によって管理されています。 このファイルの設定が自動的に反映されます。ラベルの変更は、 master ブランチへプルリクエストを行って下さい。
+
+[ブラウザからのプルリクエストの作成](https://github.com/jawordpressorg/ideas/edit/master/labels.json)も出来ます。
+
+
 ## 関連リンク
 
 - [日本語 — WordPress](https://ja.wordpress.org/)
