@@ -31,7 +31,7 @@ WordPress 本体のバグなどのフィードバックは
 
 ### このリポジトリのアクティビティを受け取りたい方へ
 このリポジトリのアクティビティの通知を受け取るには `Star` ではなく `Watch`をしましょう。
-![Wotchのクリック](https://www.evernote.com/l/ABUfUQQecFBGgavpKXtINt61pH6iR-IlzXoB/image.png)
+![Watchのクリック](https://www.evernote.com/l/ABUfUQQecFBGgavpKXtINt61pH6iR-IlzXoB/image.png)
 
 ## 関連リンク
 
