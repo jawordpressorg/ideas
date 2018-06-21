@@ -1,1 +1,22 @@
-script: ls -al
+sudo: false
+dist: trusty
+
+language: node_js
+node_js:
+  - "8" # LTS
+
+notifications:
+  email:
+    on_success: never
+    on_failure: change
+
+before_script:
+  - npm i npm@latest -g
+  - npm install @azu/github-label-setup -g
+
+script:
+  # automatic labels setting.
+  - |
+    if [[ "$TRAVIS_BRANCH" == "master" ]] && [[ "false" == "$TRAVIS_PULL_REQUEST" ]] ; then
+      github-label-setup --token $GITHUB_TOKEN --labels $TRAVIS_BUILD_DIR/labels.json
+    fi
