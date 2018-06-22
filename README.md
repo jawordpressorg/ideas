@@ -33,6 +33,15 @@ WordPress 本体のバグなどのフィードバックは
 このリポジトリのアクティビティの通知を受け取るには `Star` ではなく `Watch`をしましょう。
 ![Watchのクリック](https://www.evernote.com/l/ABUfUQQecFBGgavpKXtINt61pH6iR-IlzXoB/image.png)
 
+## このレポジトリの設定について
+
+### Issue のラベル管理
+
+Issue のラベルは、[labels.json](https://github.com/jawordpressorg/ideas/blob/master/labels.json) によって管理されています。 このファイルの設定が自動的に反映されます。ラベルの変更は、 master ブランチへプルリクエストを行って下さい。
+
+[ブラウザからのプルリクエストの作成](https://github.com/jawordpressorg/ideas/edit/master/labels.json)も出来ます。
+
+
 ## 関連リンク
 
 - [日本語 — WordPress](https://ja.wordpress.org/)
